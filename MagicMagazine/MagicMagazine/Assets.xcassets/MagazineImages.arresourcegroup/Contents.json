@@ -1,0 +1,23 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "resources" : [
+    {
+      "filename" : "carnitas.arreferenceimage"
+    },
+    {
+      "filename" : "cranberrycake.arreferenceimage"
+    },
+    {
+      "filename" : "hotmulledwine.arreferenceimage"
+    },
+    {
+      "filename" : "pumpkinspice.arreferenceimage"
+    },
+    {
+      "filename" : "sweetpotatosticks.arreferenceimage"
+    }
+  ]
+}
